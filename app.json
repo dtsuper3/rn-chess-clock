@@ -21,6 +21,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      },
+      "package": "com.dtsuper3.chessclock"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1ac59a57-23b1-497d-9906-d19364a58162"
       }
     }
   }
