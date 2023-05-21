@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "chess-clock",
+    "name": "Chess Clock",
     "slug": "chess-clock",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,9 +22,6 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }
