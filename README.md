@@ -3,6 +3,7 @@
 This is a React Native application that implements a chess clock. It provides a simple and intuitive interface for tracking time during chess games. The application is built using React Native, making it compatible with both iOS and Android devices.
 
 <img src="/assets/Screenshot_2023-05-22-00-59-12-276_com.dtsuper3.chessclock.jpg" width="200" height="auto" alt="Chess Clock Screenshot">
+
 ## Features
 
 - Two separate timers for each player (one for white and one for black)
@@ -60,6 +61,10 @@ This is a React Native application that implements a chess clock. It provides a 
 - To pause a timer, tap on the active timer. Tap again to resume.
 - To reset a timer, long press on the respective timer.
 - Time events such as time running out will trigger sound notifications if enabled in the settings.
+
+## Download
+[Click here](https://play.google.com/store/apps/details?id=com.dtsuper3.chessclock)
+
 
 ## Configuration
 
