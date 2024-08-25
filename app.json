@@ -2,7 +2,7 @@
   "expo": {
     "name": "Chess Clock",
     "slug": "chess-clock",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -22,12 +22,19 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.dtsuper3.chessclock"
+      "package": "com.dtsuper3.chessclock",
+      "versionCode": 2
     },
     "extra": {
       "eas": {
         "projectId": "1ac59a57-23b1-497d-9906-d19364a58162"
       }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/1ac59a57-23b1-497d-9906-d19364a58162"
     }
   }
 }
